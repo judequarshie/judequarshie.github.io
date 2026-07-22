@@ -18,7 +18,7 @@ export const profile = {
   socials: {
     orcid: "https://orcid.org/0000-0001-5654-1859",
     orcidId: "0000-0001-5654-1859",
-    googleScholar: "https://scholar.google.com",
+    googleScholar: "https://scholar.google.com/citations?hl=en&user=4unD5M8AAAAJ",
     researchGate: "https://www.researchgate.net/profile/Jude-Quarshie",
     linkedIn: "https://www.linkedin.com/in/judequarshie/",
     github: "https://github.com/judequarshie",
